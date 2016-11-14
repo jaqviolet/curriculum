@@ -286,6 +286,7 @@ Implement a caesar cipher that takes in a string and the shift factor and then o
 * [Braydon Pacheco's solution](https://github.com/pacheeko/Ruby_cipher/blob/master/cipher.rb)
 * [Daniel Chinedu's solution](https://repl.it/EP76)
 * [Behdad Analui's solution](https://github.com/banalui/caesar_cipher_ruby)
+* [Jack Brittain's solution](https://github.com/jaqviolet/Caesar-Cipher/blob/master/cipher2.rb)
 
 ## Project 2: Stock Picker
 
@@ -536,6 +537,7 @@ Implement a method `#stock_picker` that takes in an array of stock prices, one f
 * [jeff1st's solution](https://github.com/jeff1st/ruby_codes/blob/master/stock_picker.rb)
 * [Braydon Pacheco's solution](https://github.com/pacheeko/ruby_stock/blob/master/stock.rb)
 * [Behdad Analui's solution](https://github.com/banalui/stock_picker_ruby)
+* [Jack Brittain's solution](https://github.com/jaqviolet/Caesar-Cipher/blob/master/stocks.rb)
 
 
 ## Project 3: Substrings
@@ -793,4 +795,5 @@ Next, make sure your method can handle multiple words:
 * [Braydon Pacheco's solution](https://github.com/pacheeko/ruby_substring/blob/master/substrings.rb)
 * [Daniel Chinedu's solution](https://repl.it/EP76/1)
 * [Behdad Analui's solution](https://github.com/banalui/substrings_ruby)
+* [Jack Brittain's solution](https://github.com/jaqviolet/Caesar-Cipher/blob/master/substring.rb)
 >>>>>>> upstream/master
